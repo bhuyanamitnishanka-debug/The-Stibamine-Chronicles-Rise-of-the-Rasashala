@@ -1,0 +1,6 @@
+{
+  "name": "The Stibamine Chronicles: Rise of the Rasashala",
+  "description": "An interactive graphic novel and sovereign facility simulator celebrating the quantum legacy of Sir Upendranath Brahmachari, ancient Indian metallurgy, and modern chiral nanomedicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
